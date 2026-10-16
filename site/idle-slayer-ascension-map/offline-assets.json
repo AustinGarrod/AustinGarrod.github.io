@@ -1,5 +1,5 @@
 {
-  "version": "ae072f6afaf5085772a7edcca2c64aadb51aa84da84fa5ac7cdd87c2bb264a38",
+  "version": "ef3a8acc0462e4bd26ed606e206518253f043062e9060e462280609050764a62",
   "assets": [
     {
       "file": "assets/companion/achievement-0288kundf9pizgvcw1ee.png",
@@ -5991,7 +5991,7 @@
     },
     {
       "file": "licenses/bundle-notices.json",
-      "sha256": "626847549ca9c4b3b4e4463a62b0b725bb289d557646e03b7befa68c6dabb3ac"
+      "sha256": "7331eefba5b6fe56a8982f9c5cb06de25f0dbf2429f94bd465d0646732933477"
     },
     {
       "file": "licenses/classcat-MIT.txt",
