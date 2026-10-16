@@ -1,0 +1,16 @@
+{
+  "id": "/idle-slayer-ascension-map/",
+  "name": "Idle Slayer Companion",
+  "short_name": "Slayer Companion",
+  "description": "Your unofficial Idle Slayer progress and planning companion, stored on this device.",
+  "start_url": "/idle-slayer-companion/",
+  "scope": "/idle-slayer-companion/",
+  "display": "standalone",
+  "background_color": "#15120f",
+  "theme_color": "#231e19",
+  "icons": [
+    { "src": "pwa/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "pwa/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "pwa/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

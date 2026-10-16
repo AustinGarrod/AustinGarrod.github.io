@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "manifestSha256": "d77765a354233961b5aa48f4f782f488330ecfc96bc40ab6b96527d9ca1197e0",
+  "packages": [
+    {
+      "name": "@dagrejs/dagre",
+      "version": "3.1.1",
+      "inclusion": "module"
+    },
+    {
+      "name": "@dagrejs/graphlib",
+      "version": "4.0.5",
+      "inclusion": "embedded"
+    },
+    {
+      "name": "@fontsource/press-start-2p",
+      "version": "5.3.0",
+      "inclusion": "module"
+    },
+    {
+      "name": "@xyflow/react",
+      "version": "12.12.0",
+      "inclusion": "module"
+    },
+    {
+      "name": "@xyflow/system",
+      "version": "0.0.83",
+      "inclusion": "module"
+    },
+    {
+      "name": "classcat",
+      "version": "5.0.5",
+      "inclusion": "module"
+    },
+    {
+      "name": "d3-color",
+      "version": "3.1.0",
+      "inclusion": "module"
+    },
+    {
+      "name": "d3-dispatch",
+      "version": "3.0.1",
+      "inclusion": "module"
+    },
+    {
+      "name": "d3-drag",
+      "version": "3.0.0",
+      "inclusion": "module"
+    },
+    {
+      "name": "d3-ease",
+      "version": "3.0.1",
+      "inclusion": "module"
+    },
+    {
+      "name": "d3-interpolate",
+      "version": "3.0.1",
+      "inclusion": "module"
+    },
+    {
+      "name": "d3-selection",
+      "version": "3.0.0",
+      "inclusion": "module"
+    },
+    {
+      "name": "d3-timer",
+      "version": "3.0.1",
+      "inclusion": "module"
+    },
+    {
+      "name": "d3-transition",
+      "version": "3.0.1",
+      "inclusion": "module"
+    },
+    {
+      "name": "d3-zoom",
+      "version": "3.0.0",
+      "inclusion": "module"
+    },
+    {
+      "name": "qrcode-generator",
+      "version": "2.0.4",
+      "inclusion": "module"
+    },
+    {
+      "name": "react",
+      "version": "19.2.8",
+      "inclusion": "module"
+    },
+    {
+      "name": "react-dom",
+      "version": "19.2.8",
+      "inclusion": "module"
+    },
+    {
+      "name": "rolldown",
+      "version": "1.2.12",
+      "inclusion": "helper"
+    },
+    {
+      "name": "scheduler",
+      "version": "0.27.0",
+      "inclusion": "module"
+    },
+    {
+      "name": "use-sync-external-store",
+      "version": "1.7.0",
+      "inclusion": "module"
+    },
+    {
+      "name": "vite",
+      "version": "8.3.2",
+      "inclusion": "helper"
+    },
+    {
+      "name": "zustand",
+      "version": "4.5.7",
+      "inclusion": "module"
+    }
+  ],
+  "chunks": [
+    {
+      "file": "assets/index-BjPcY8By.js",
+      "sha256": "e0f9d366ab429d3e9a1caf9f84c3036d0dd2ced731f5df7d76c734c40bec3000"
+    }
+  ]
+}
