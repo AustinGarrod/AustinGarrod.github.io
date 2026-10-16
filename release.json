@@ -1,11 +1,11 @@
 {
-  "sourceRepository": "AustinGarrod/idle-slayer-ascension-map",
+  "sourceRepository": "AustinGarrod/idle-slayer-companion",
   "targetRepository": "AustinGarrod/idle-slayer-companion",
-  "sourceCommit": "6f1f7f3ed09f28c563421e97f449a18890ce41e2",
+  "sourceCommit": "a61eace76450a14ca92887a76a865e2a05878b70",
   "companionBase": "/idle-slayer-companion/",
   "compatibilityBase": "/idle-slayer-ascension-map/",
   "files": 3074,
-  "bytes": 7489691,
-  "sha256Manifest": "9f9b358675fe3be955621d1bbfec577827ac8906a6767d264f88ea0e55bad9e9",
-  "companionRelease": "2b1f909940c621344339c00b56e2451332705470ddea56f30f8f06e2e4204a99"
+  "bytes": 7488520,
+  "sha256Manifest": "2b55df79944c31d071c44d0944276b19d55ba3ae2753b65163e01022723df15e",
+  "companionRelease": "9cc380a574fbf12391d3d4550f61ad69c6d26d300674e8c1baf68a0ceac6a4cd"
 }

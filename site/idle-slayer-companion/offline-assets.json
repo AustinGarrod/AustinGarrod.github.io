@@ -1,13 +1,13 @@
 {
-  "version": "2b1f909940c621344339c00b56e2451332705470ddea56f30f8f06e2e4204a99",
+  "version": "9cc380a574fbf12391d3d4550f61ad69c6d26d300674e8c1baf68a0ceac6a4cd",
   "assets": [
     {
       "file": "achievements/index.html",
-      "sha256": "e6f05d56d1b1bce82402cae89e6474314259962fd43339aa6abd35b035ccdd01"
+      "sha256": "0aec1312fff1573d2efcee1075256b800a094c465acdba6c9c6f6909063464f8"
     },
     {
       "file": "ascension/index.html",
-      "sha256": "e6f05d56d1b1bce82402cae89e6474314259962fd43339aa6abd35b035ccdd01"
+      "sha256": "0aec1312fff1573d2efcee1075256b800a094c465acdba6c9c6f6909063464f8"
     },
     {
       "file": "assets/companion/achievement-0288kundf9pizgvcw1ee.png",
@@ -4830,8 +4830,8 @@
       "sha256": "14d0a7bb511d475beff2736121d07c5378237d27fd20d1e4c9d86c678c62263d"
     },
     {
-      "file": "assets/index-BjPcY8By.js",
-      "sha256": "e0f9d366ab429d3e9a1caf9f84c3036d0dd2ced731f5df7d76c734c40bec3000"
+      "file": "assets/index-C_CUW3Yt.js",
+      "sha256": "47be67cbbcd764a2d62a46120cb51b13d49d697ce74858d65f366223785c4c7f"
     },
     {
       "file": "assets/index-C_UlStfY.css",
@@ -5999,7 +5999,7 @@
     },
     {
       "file": "bestiary/index.html",
-      "sha256": "e6f05d56d1b1bce82402cae89e6474314259962fd43339aa6abd35b035ccdd01"
+      "sha256": "0aec1312fff1573d2efcee1075256b800a094c465acdba6c9c6f6909063464f8"
     },
     {
       "file": "catalog.json",
@@ -6011,19 +6011,19 @@
     },
     {
       "file": "crafting/index.html",
-      "sha256": "e6f05d56d1b1bce82402cae89e6474314259962fd43339aa6abd35b035ccdd01"
+      "sha256": "0aec1312fff1573d2efcee1075256b800a094c465acdba6c9c6f6909063464f8"
     },
     {
       "file": "divinities/index.html",
-      "sha256": "e6f05d56d1b1bce82402cae89e6474314259962fd43339aa6abd35b035ccdd01"
+      "sha256": "0aec1312fff1573d2efcee1075256b800a094c465acdba6c9c6f6909063464f8"
     },
     {
       "file": "index.html",
-      "sha256": "e6f05d56d1b1bce82402cae89e6474314259962fd43339aa6abd35b035ccdd01"
+      "sha256": "0aec1312fff1573d2efcee1075256b800a094c465acdba6c9c6f6909063464f8"
     },
     {
       "file": "licenses/bundle-notices.json",
-      "sha256": "536f2abdd4c52cf8b37212441a02e4b5cd8405eaeb265b72f94f7bfea3f33fb6"
+      "sha256": "626847549ca9c4b3b4e4463a62b0b725bb289d557646e03b7befa68c6dabb3ac"
     },
     {
       "file": "licenses/classcat-MIT.txt",
@@ -6135,7 +6135,7 @@
     },
     {
       "file": "overview/index.html",
-      "sha256": "e6f05d56d1b1bce82402cae89e6474314259962fd43339aa6abd35b035ccdd01"
+      "sha256": "0aec1312fff1573d2efcee1075256b800a094c465acdba6c9c6f6909063464f8"
     },
     {
       "file": "pwa/apple-touch-icon.png",
@@ -6155,7 +6155,7 @@
     },
     {
       "file": "quests/index.html",
-      "sha256": "e6f05d56d1b1bce82402cae89e6474314259962fd43339aa6abd35b035ccdd01"
+      "sha256": "0aec1312fff1573d2efcee1075256b800a094c465acdba6c9c6f6909063464f8"
     }
   ]
 }
