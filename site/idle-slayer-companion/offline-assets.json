@@ -1,13 +1,14 @@
 {
-  "version": "6b4bcae7b27da37bf76d3e544d566d24aaac2d7cdfc5f88c0ea0cf8a36d2f313",
+  "version": "b78bfe27f4b9f98884862db3ccf26d9ec25e8947696d5f410a70a08cfe5b0b5e",
+  "cachePrefix": "idle-slayer-companion-public-",
   "assets": [
     {
       "file": "achievements/index.html",
-      "sha256": "55bf2d2cd4be167076fc0832d5fc2695de996e0811fa948e2d982f0e4fa0255c"
+      "sha256": "28de675efe78e6a6f4da4aa217bd42435798968f55c53da5d2a664e421dc9587"
     },
     {
       "file": "ascension/index.html",
-      "sha256": "55bf2d2cd4be167076fc0832d5fc2695de996e0811fa948e2d982f0e4fa0255c"
+      "sha256": "28de675efe78e6a6f4da4aa217bd42435798968f55c53da5d2a664e421dc9587"
     },
     {
       "file": "assets/companion/achievement-0288kundf9pizgvcw1ee.png",
@@ -4830,20 +4831,20 @@
       "sha256": "14d0a7bb511d475beff2736121d07c5378237d27fd20d1e4c9d86c678c62263d"
     },
     {
-      "file": "assets/index-C-R_E7tq.css",
-      "sha256": "6b454dccb1fef535c954ffe79a36523a252932c9bbc69afa6821c1dede0d9165"
+      "file": "assets/index-Cs7gbJol.js",
+      "sha256": "7c9f129ed94dc1f5ff6dc03dbb3651fd1f36dd92903afd4990eb7db7a2c06a74"
     },
     {
-      "file": "assets/index-ax0YY9jE.js",
-      "sha256": "ad5af9f200cebe66b749909365e3d8f4e5a9f8d627e8352c96cd97029289c838"
+      "file": "assets/index-uOmNq6MH.css",
+      "sha256": "1f7f715789a257301b254455ee52e0af82cc7166c928e11957bc53563a23eda7"
     },
     {
-      "file": "assets/press-start-2p-latin-400-normal-KLytu4cr.woff",
-      "sha256": "5639ed14ba3e96401f71dcf399e6e64bbcfa4110250d61ba6a9fcb969c9cc74f"
+      "file": "assets/inter-latin.var-Dx4kXJAl.woff2",
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
     },
     {
-      "file": "assets/press-start-2p-latin-400-normal-_wFEWmAB.woff2",
-      "sha256": "afec86997fdaf54af1f59358fa2c1e2a0f1d04146edad18e5cd141d0384a7548"
+      "file": "assets/jetbrains-mono-latin.var-6fWv1k7M.woff2",
+      "sha256": "83c005d49d8a6a50474c73a5a36ac0468076e9c4a29da7bdb14995d80560a5be"
     },
     {
       "file": "assets/upgrades/007lhm0k09vw93na7gry.png",
@@ -5999,7 +6000,7 @@
     },
     {
       "file": "bestiary/index.html",
-      "sha256": "55bf2d2cd4be167076fc0832d5fc2695de996e0811fa948e2d982f0e4fa0255c"
+      "sha256": "28de675efe78e6a6f4da4aa217bd42435798968f55c53da5d2a664e421dc9587"
     },
     {
       "file": "catalog.json",
@@ -6011,19 +6012,19 @@
     },
     {
       "file": "crafting/index.html",
-      "sha256": "55bf2d2cd4be167076fc0832d5fc2695de996e0811fa948e2d982f0e4fa0255c"
+      "sha256": "28de675efe78e6a6f4da4aa217bd42435798968f55c53da5d2a664e421dc9587"
     },
     {
       "file": "divinities/index.html",
-      "sha256": "55bf2d2cd4be167076fc0832d5fc2695de996e0811fa948e2d982f0e4fa0255c"
+      "sha256": "28de675efe78e6a6f4da4aa217bd42435798968f55c53da5d2a664e421dc9587"
     },
     {
       "file": "index.html",
-      "sha256": "55bf2d2cd4be167076fc0832d5fc2695de996e0811fa948e2d982f0e4fa0255c"
+      "sha256": "28de675efe78e6a6f4da4aa217bd42435798968f55c53da5d2a664e421dc9587"
     },
     {
       "file": "licenses/bundle-notices.json",
-      "sha256": "7331eefba5b6fe56a8982f9c5cb06de25f0dbf2429f94bd465d0646732933477"
+      "sha256": "384c96981b199f1b69e92d88795d7be4f90ba3e0a5b056de7f8f655bb1d41ef7"
     },
     {
       "file": "licenses/classcat-MIT.txt",
@@ -6075,15 +6076,19 @@
     },
     {
       "file": "licenses/index.html",
-      "sha256": "ffe7f6ed492c941b75023869c82208735517dcf89790ce9c17b528221de9e810"
+      "sha256": "8c404a9f45ee3814a3fa4217f671500b9aa5c5a2063f81132ca9a75b4cd78a90"
+    },
+    {
+      "file": "licenses/inter-OFL.txt",
+      "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "file": "licenses/jetbrains-mono-OFL.txt",
+      "sha256": "b2fe5e8987594e9ffd1d2ca52a2f5d73eb8335243893c5d6254b5ad69269591d"
     },
     {
       "file": "licenses/notices.json",
-      "sha256": "d77765a354233961b5aa48f4f782f488330ecfc96bc40ab6b96527d9ca1197e0"
-    },
-    {
-      "file": "licenses/press-start-2p-OFL.txt",
-      "sha256": "98e451fe911e5ee4a1a45359535dc30ea7df28b8d9a9cd1f741778efab1387ee"
+      "sha256": "ca2cd5078f8c586ad80aecb414b6f833ffd2e1326cb480451eca41848595eb13"
     },
     {
       "file": "licenses/qrcode-generator-MIT.txt",
@@ -6110,12 +6115,36 @@
       "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
     },
     {
+      "file": "licenses/sentry-browser-MIT.txt",
+      "sha256": "f3df0b92efcd9d8cc0de5a36c151569a12a647d65b851abbb696ef7b13dee10b"
+    },
+    {
+      "file": "licenses/sentry-browser-utils-MIT.txt",
+      "sha256": "9d45329f27eee77d23ab9b4a62cea6247e3e7402cf5bb04d77b9279f2c1e1be3"
+    },
+    {
+      "file": "licenses/sentry-conventions-MIT.txt",
+      "sha256": "6c459083310e285797954222cc75bb33a56c04512d4f07c8b1b80258f99b0278"
+    },
+    {
+      "file": "licenses/sentry-core-MIT.txt",
+      "sha256": "f3df0b92efcd9d8cc0de5a36c151569a12a647d65b851abbb696ef7b13dee10b"
+    },
+    {
+      "file": "licenses/sentry-react-MIT.txt",
+      "sha256": "f3df0b92efcd9d8cc0de5a36c151569a12a647d65b851abbb696ef7b13dee10b"
+    },
+    {
       "file": "licenses/use-sync-external-store-MIT.txt",
       "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
     },
     {
       "file": "licenses/vite-MIT.txt",
       "sha256": "a47172e44a86a7e2cd1c16282341f7726ec60caafe3a6166fe3e0602005b6fa6"
+    },
+    {
+      "file": "licenses/web-vitals-Apache.txt",
+      "sha256": "bfdeded4040e05da31ca9b6239dc83bd23fa26ac8db87342a7ca4363f68916ff"
     },
     {
       "file": "licenses/xyflow-react-MIT.txt",
@@ -6131,31 +6160,31 @@
     },
     {
       "file": "manifest.webmanifest",
-      "sha256": "092eda8d77bdc2404dbf3f5bd9f0680f8d56ab6ea978a0c6b76d82984d685d49"
+      "sha256": "233981d506a7664a43eefb07a6b03b721e5da6d5c724743f8c05d4e3137aac1c"
     },
     {
       "file": "overview/index.html",
-      "sha256": "55bf2d2cd4be167076fc0832d5fc2695de996e0811fa948e2d982f0e4fa0255c"
+      "sha256": "28de675efe78e6a6f4da4aa217bd42435798968f55c53da5d2a664e421dc9587"
     },
     {
       "file": "pwa/apple-touch-icon.png",
-      "sha256": "e06568c840a34ef24b8c75c4d1bdb1b54040bd5c167ec7ffcebe88f2382cc4b5"
+      "sha256": "83f43bab0e50248fdf2d51431080d7ddbf4aad6151378bd70b98606f30d7eab5"
     },
     {
       "file": "pwa/icon-192.png",
-      "sha256": "3269564a629a908e2f30289d594507d50bd0d3daaaa95b9cbc90c689a19670d4"
+      "sha256": "920648b7d7ad260fad2ec6b136987542a36bc7c9452c1728779036f4f50d41a5"
     },
     {
       "file": "pwa/icon-512.png",
-      "sha256": "853f95cc1b64f5551cd7946a00223dd71ddc194ef3fb4b859667872d5e67c835"
+      "sha256": "b803aed8469d84ae822ca37de110008e1f5d5e14b933387e0f95a6fa77b033c6"
     },
     {
       "file": "pwa/maskable-512.png",
-      "sha256": "6646a0d4afd0ac7e5a03e49a318a88e034ef338b939608fc6bd0cf900bd4ac2b"
+      "sha256": "4b1e95f38ff5a26bd203408e9c27be6995117223fd020077622c5489fbce002c"
     },
     {
       "file": "quests/index.html",
-      "sha256": "55bf2d2cd4be167076fc0832d5fc2695de996e0811fa948e2d982f0e4fa0255c"
+      "sha256": "28de675efe78e6a6f4da4aa217bd42435798968f55c53da5d2a664e421dc9587"
     }
   ]
 }

@@ -1,11 +1,12 @@
 {
-  "sourceRepository": "AustinGarrod/idle-slayer-companion",
-  "targetRepository": "AustinGarrod/idle-slayer-companion",
-  "sourceCommit": "8ad8454cb8e8d1ed3d8fa80531b3b170464447d9",
+  "sourceRepository": "AustinGarrod/austingarrod-ca",
+  "sourcePath": "apps/idle-slayer-companion",
+  "sourceCommit": "9e1e0e35a438b16640bbe592f7d42f3d46cf452c",
+  "destination": "https://austingarrod.ca/utilities/idle-slayer-companion/",
   "companionBase": "/idle-slayer-companion/",
   "compatibilityBase": "/idle-slayer-ascension-map/",
-  "files": 3074,
-  "bytes": 7496750,
-  "sha256Manifest": "0e40b324b7e716e935b388305a20152a98df1146678222822c4a8415e54c0f1a",
-  "companionRelease": "6b4bcae7b27da37bf76d3e544d566d24aaac2d7cdfc5f88c0ea0cf8a36d2f313"
+  "files": 3095,
+  "bytes": 7851748,
+  "sha256Manifest": "57ffe94ba2b8f4221d192310021bf62c03cdd347c93bce4520cd5e9fdc8e2379",
+  "companionRelease": "b78bfe27f4b9f98884862db3ccf26d9ec25e8947696d5f410a70a08cfe5b0b5e"
 }

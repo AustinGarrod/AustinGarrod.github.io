@@ -1,6 +1,14 @@
 {
-  "version": "ef3a8acc0462e4bd26ed606e206518253f043062e9060e462280609050764a62",
+  "version": "4fab2abc67a06591a563f0e7bbc07497c20b0ab8db4e90d82dfe749548056f91",
   "assets": [
+    {
+      "file": "achievements/index.html",
+      "sha256": "09f8cf514c2914480aaf4b0e142725b9c6e20ba68e2a1487b787121e21202f64"
+    },
+    {
+      "file": "ascension/index.html",
+      "sha256": "09f8cf514c2914480aaf4b0e142725b9c6e20ba68e2a1487b787121e21202f64"
+    },
     {
       "file": "assets/companion/achievement-0288kundf9pizgvcw1ee.png",
       "sha256": "27b094ff536bf5bf8e3e18ea94ca76a37b610f524f53a6e453a7150b0ee39eb9"
@@ -5974,8 +5982,12 @@
       "sha256": "85c762f96f3c531bcd7309250aa9328f4b1eddbb7df63e2e99d67b3da630fdcb"
     },
     {
+      "file": "bestiary/index.html",
+      "sha256": "09f8cf514c2914480aaf4b0e142725b9c6e20ba68e2a1487b787121e21202f64"
+    },
+    {
       "file": "bridge.js",
-      "sha256": "b9657f16ceee5cec9519394c9a6dcb692d74cb0247e1ee279a416f07c742f76d"
+      "sha256": "05b121bc5dd907a674520e4de6af11d15aee180e83cd57417d4d1ee8771cdd38"
     },
     {
       "file": "catalog.json",
@@ -5986,12 +5998,20 @@
       "sha256": "138f9d95a190ce7227096db86d4ee2ec77101d984e07913983ecdd16c4384541"
     },
     {
+      "file": "crafting/index.html",
+      "sha256": "09f8cf514c2914480aaf4b0e142725b9c6e20ba68e2a1487b787121e21202f64"
+    },
+    {
+      "file": "divinities/index.html",
+      "sha256": "09f8cf514c2914480aaf4b0e142725b9c6e20ba68e2a1487b787121e21202f64"
+    },
+    {
       "file": "index.html",
-      "sha256": "97193f30be92df0baac345f9dc971ddbc4b9cfa06b029be1b35a1a024d99c30f"
+      "sha256": "09f8cf514c2914480aaf4b0e142725b9c6e20ba68e2a1487b787121e21202f64"
     },
     {
       "file": "licenses/bundle-notices.json",
-      "sha256": "7331eefba5b6fe56a8982f9c5cb06de25f0dbf2429f94bd465d0646732933477"
+      "sha256": "384c96981b199f1b69e92d88795d7be4f90ba3e0a5b056de7f8f655bb1d41ef7"
     },
     {
       "file": "licenses/classcat-MIT.txt",
@@ -6043,15 +6063,19 @@
     },
     {
       "file": "licenses/index.html",
-      "sha256": "ffe7f6ed492c941b75023869c82208735517dcf89790ce9c17b528221de9e810"
+      "sha256": "8c404a9f45ee3814a3fa4217f671500b9aa5c5a2063f81132ca9a75b4cd78a90"
+    },
+    {
+      "file": "licenses/inter-OFL.txt",
+      "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "file": "licenses/jetbrains-mono-OFL.txt",
+      "sha256": "b2fe5e8987594e9ffd1d2ca52a2f5d73eb8335243893c5d6254b5ad69269591d"
     },
     {
       "file": "licenses/notices.json",
-      "sha256": "d77765a354233961b5aa48f4f782f488330ecfc96bc40ab6b96527d9ca1197e0"
-    },
-    {
-      "file": "licenses/press-start-2p-OFL.txt",
-      "sha256": "98e451fe911e5ee4a1a45359535dc30ea7df28b8d9a9cd1f741778efab1387ee"
+      "sha256": "ca2cd5078f8c586ad80aecb414b6f833ffd2e1326cb480451eca41848595eb13"
     },
     {
       "file": "licenses/qrcode-generator-MIT.txt",
@@ -6078,12 +6102,36 @@
       "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
     },
     {
+      "file": "licenses/sentry-browser-MIT.txt",
+      "sha256": "f3df0b92efcd9d8cc0de5a36c151569a12a647d65b851abbb696ef7b13dee10b"
+    },
+    {
+      "file": "licenses/sentry-browser-utils-MIT.txt",
+      "sha256": "9d45329f27eee77d23ab9b4a62cea6247e3e7402cf5bb04d77b9279f2c1e1be3"
+    },
+    {
+      "file": "licenses/sentry-conventions-MIT.txt",
+      "sha256": "6c459083310e285797954222cc75bb33a56c04512d4f07c8b1b80258f99b0278"
+    },
+    {
+      "file": "licenses/sentry-core-MIT.txt",
+      "sha256": "f3df0b92efcd9d8cc0de5a36c151569a12a647d65b851abbb696ef7b13dee10b"
+    },
+    {
+      "file": "licenses/sentry-react-MIT.txt",
+      "sha256": "f3df0b92efcd9d8cc0de5a36c151569a12a647d65b851abbb696ef7b13dee10b"
+    },
+    {
       "file": "licenses/use-sync-external-store-MIT.txt",
       "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
     },
     {
       "file": "licenses/vite-MIT.txt",
       "sha256": "a47172e44a86a7e2cd1c16282341f7726ec60caafe3a6166fe3e0602005b6fa6"
+    },
+    {
+      "file": "licenses/web-vitals-Apache.txt",
+      "sha256": "bfdeded4040e05da31ca9b6239dc83bd23fa26ac8db87342a7ca4363f68916ff"
     },
     {
       "file": "licenses/xyflow-react-MIT.txt",
@@ -6099,23 +6147,31 @@
     },
     {
       "file": "manifest.webmanifest",
-      "sha256": "092eda8d77bdc2404dbf3f5bd9f0680f8d56ab6ea978a0c6b76d82984d685d49"
+      "sha256": "233981d506a7664a43eefb07a6b03b721e5da6d5c724743f8c05d4e3137aac1c"
+    },
+    {
+      "file": "overview/index.html",
+      "sha256": "09f8cf514c2914480aaf4b0e142725b9c6e20ba68e2a1487b787121e21202f64"
     },
     {
       "file": "pwa/apple-touch-icon.png",
-      "sha256": "e06568c840a34ef24b8c75c4d1bdb1b54040bd5c167ec7ffcebe88f2382cc4b5"
+      "sha256": "83f43bab0e50248fdf2d51431080d7ddbf4aad6151378bd70b98606f30d7eab5"
     },
     {
       "file": "pwa/icon-192.png",
-      "sha256": "3269564a629a908e2f30289d594507d50bd0d3daaaa95b9cbc90c689a19670d4"
+      "sha256": "920648b7d7ad260fad2ec6b136987542a36bc7c9452c1728779036f4f50d41a5"
     },
     {
       "file": "pwa/icon-512.png",
-      "sha256": "853f95cc1b64f5551cd7946a00223dd71ddc194ef3fb4b859667872d5e67c835"
+      "sha256": "b803aed8469d84ae822ca37de110008e1f5d5e14b933387e0f95a6fa77b033c6"
     },
     {
       "file": "pwa/maskable-512.png",
-      "sha256": "6646a0d4afd0ac7e5a03e49a318a88e034ef338b939608fc6bd0cf900bd4ac2b"
+      "sha256": "4b1e95f38ff5a26bd203408e9c27be6995117223fd020077622c5489fbce002c"
+    },
+    {
+      "file": "quests/index.html",
+      "sha256": "09f8cf514c2914480aaf4b0e142725b9c6e20ba68e2a1487b787121e21202f64"
     }
   ]
 }
